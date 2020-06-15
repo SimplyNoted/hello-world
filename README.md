@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+
+Hi,
+
+I've joined GitHub to learn more about Git, which my company is moving to next month.
